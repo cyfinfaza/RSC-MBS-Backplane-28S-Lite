@@ -512,7 +512,7 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.6,
+        "clearance": 0.3,
         "name": "HV",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
@@ -660,7 +660,7 @@
         "uuid": "272e2e38-5ca4-40fd-9ca0-5eeed3504198"
       }
     ],
-    "used_designators": "J1-19,#PWR1-34",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
